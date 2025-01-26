@@ -5,3 +5,4 @@ i developed this simple todo app is to show my skills in flutter as my health tr
 ## Functions
 
 It has very basic functions like authentication (sign up, sign in, and log out) and then CRUD functions.
+
